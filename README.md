@@ -9,3 +9,6 @@ Welcome to my profile. I'm a data analyst, part-time coder and full time adventu
 ### In addition to GitHub, you can find me on:
 
 <a href="https://www.linkedin.com/in/ricardosilva07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" /></a>
+
+⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.44 %
+
