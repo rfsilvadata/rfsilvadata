@@ -6,6 +6,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-### In addition to GitHub, find me on: 
+### In addition to GitHub, find me on: :airplane: :earth_americas:
 
-https://www.linkedin.com/in/ricardosilva07/
+<a href="https://www.linkedin.com/in/ricardosilva07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" /></a>
