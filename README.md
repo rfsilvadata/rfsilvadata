@@ -4,7 +4,7 @@ Welcome to my profile. I'm a data analyst, part-time coder and full time adventu
 
 ### :rocket: Some tools I use in my work
 
-<img src="https://icongr.am/devicon/csharp-original.svg" width="37" height="37" />  <img src="https://icongr.am/devicon/css3-original.svg" width="37" height="37" />  <img src="https://icongr.am/devicon/html5-original.svg" width="37" height="37" />  <img src="https://icongr.am/devicon/jquery-original.svg" width="37" height="37" />  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg" width="37" height="37" />  <img src="https://icongr.am/devicon/python-original.svg" width="37" height="37" />
+<img src="https://raw.githubusercontent.com/rfsilvadata/rfsilvadata/406d627d14734cda77f5f2e33b613548c0dd107e/images/c%23.svg" width="37" height="37" />  <img src="https://raw.githubusercontent.com/rfsilvadata/rfsilvadata/406d627d14734cda77f5f2e33b613548c0dd107e/images/css.svg" width="37" height="37" />  <img src="https://raw.githubusercontent.com/rfsilvadata/rfsilvadata/406d627d14734cda77f5f2e33b613548c0dd107e/images/html5.svg" width="37" height="37" />  <img src="https://raw.githubusercontent.com/rfsilvadata/rfsilvadata/406d627d14734cda77f5f2e33b613548c0dd107e/images/jquery.svg" width="37" height="37" />  <img src="https://raw.githubusercontent.com/rfsilvadata/rfsilvadata/406d627d14734cda77f5f2e33b613548c0dd107e/images/mysql.svg" width="37" height="37" />  <img src="https://raw.githubusercontent.com/rfsilvadata/rfsilvadata/406d627d14734cda77f5f2e33b613548c0dd107e/images/python.svg" width="37" height="37" />
                                                                                                                             
 ### In addition to GitHub, you can find me on:
 
