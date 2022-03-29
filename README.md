@@ -1,6 +1,6 @@
 ### Hey, I'm Ricardo Silva! 👋
 
-Welcome to my profile. I'm a data analyst, part-time coder and full time adventure seeker. Right now I'm learning C# and JQuery in order to implement dashboards directly on websites, so I don't have to have a programmer to do this work for me.
+Welcome to my profile. I'm a web developer at EventBuddy.pt and full time adventure seeker.
 
 ### :rocket: Some tools I use in my work
 
