@@ -1,6 +1,7 @@
 ### Hey, I'm Ricardo Silva! 👋
 
 Welcome to my profile. I'm a web developer at EventBuddy.pt and full time adventure seeker.
+I started working as a data analyst for Eventbuddy but with the need to have another web developer working with them, the opportunity arose for me to venture into this world.
 
 ### :rocket: Some tools I use in my work
 
